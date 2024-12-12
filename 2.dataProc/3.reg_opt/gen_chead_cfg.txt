@@ -1,0 +1,19 @@
+# SegmentName        Begin    End
+Vdpu384aRegVersion     0       0
+Vdpu384aCtrlReg        8       30
+Vdpu384aRegCommonAddr  128     161
+# av1
+Vdpu384aRegAv1dParas   64      106
+Vdpu384aRegAv1dAddr    168     232
+# avs2
+Vdpu384aRegAvs2dParas  64      106
+Vdpu384aRegAvs2dAddr   168     232
+# h264
+Vdpu384aRegH264dParam  64      106
+Vdpu384aRegH264dAddr   168     232
+# h265
+Vdpu384aRegH265dParas  64      106
+Vdpu384aRegH265dAddr   168     232
+# vp9
+Vdpu384aRegVp9dParas   64      106
+Vdpu384aRegVp9dAddr    168     232
